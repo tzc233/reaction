@@ -2,7 +2,7 @@
 Machine Learning-Based Analysis and Prediction of Chemical Reaction Pathways and Products
 
 ## 项目简介 / Project Overview
-本项目是本科毕业设计，旨在利用机器学习方法，结合分子动力学模拟，实现对化学反应路径及其产物的高效预测。该方法为化学反应分析与预测提供了全新的技术路线，有望在材料科学、药物设计、能源转换等领域发挥重要作用。
+本项目旨在利用机器学习方法，结合分子动力学模拟，实现对化学反应路径及其产物的高效预测。该方法为化学反应分析与预测提供了全新的技术路线，有望在材料科学、药物设计、能源转换等领域发挥重要作用。
 
 This repository is an undergraduate thesis project focused on leveraging machine learning and molecular dynamics simulations to efficiently predict chemical reaction pathways and products. This approach offers a new perspective and methodology for reaction pathway analysis and product prediction, with potential applications in materials science, drug design, and energy conversion.
 
