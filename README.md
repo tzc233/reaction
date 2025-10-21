@@ -1,8 +1,11 @@
 # Reaction prediction
 大概是做的时间序列预测吧==
 
+## 目录
 
-目前在改的是 src/s2s.ipynb 。一条龙服务
+src/s2s.ipynb  预测state
+
+src/s2T.ipynb  预测时间
 
 
 数据都在 data/
